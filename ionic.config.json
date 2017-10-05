@@ -1,0 +1,12 @@
+{
+  "name": "WordApp",
+  "app_id": "03c6a859",
+  "integrations": {},
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
